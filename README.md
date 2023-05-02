@@ -11,8 +11,8 @@
 ![image](img/weather_image.jpg)
 ## Result
 ### confusion matrix
-![image](img/confusion_matrix.JPG)
+![image](img/confusion_matrix.jpg)
 ### loss curve
-![image](img/loss_curve.JPG)
+![image](img/loss_curve.jpg)
 ### accuracy curve
-![image](img/accuracy_curve.JPG)
+![image](img/accuracy_curve.jpg)
